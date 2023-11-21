@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import { Route, Routes } from 'react-router-dom';
 import Productos from './partpagina/Productos';
 import Carrito from './partpagina/Carrito';
 import Header from './partpagina/Header'
